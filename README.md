@@ -2,7 +2,7 @@
 Practicing solving ODEs and plotting in Julia
 
 # Quickstart
-1. Install packages `DifferentialEquations`, `Plots`, and `LaTeXStrings`
+1. Install packages `DifferentialEquations`, `Plots`, `PyPlot`, and `LaTeXStrings`
 2. Run `VanDerPol.jl` in Julia
 
 # Background
